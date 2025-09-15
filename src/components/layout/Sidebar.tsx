@@ -97,7 +97,7 @@ export const Sidebar: React.FC = () => {
           collapsed && "hidden"
         )}>
           <p>Contract Management</p>
-          <p className="font-medium">Dashboard v1.0</p>
+          <p className="font-medium">Dashboard</p>
         </div>
       </div>
     </div>

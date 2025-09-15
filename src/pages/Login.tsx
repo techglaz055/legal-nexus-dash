@@ -56,7 +56,7 @@ export const Login: React.FC = () => {
           </div>
           <h1 className="text-3xl font-bold text-foreground">ContractDash</h1>
           <p className="text-muted-foreground mt-2">
-            AI-powered contract management platform
+            Smart contract management platform
           </p>
         </div>
 

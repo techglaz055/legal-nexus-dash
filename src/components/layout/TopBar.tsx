@@ -40,7 +40,7 @@ export const TopBar: React.FC = () => {
             Contract Management
           </h1>
           <p className="text-sm text-muted-foreground">
-            Manage and analyze your contracts with AI-powered insights
+            Manage and analyze your contracts with intelligent insights
           </p>
         </div>
 
